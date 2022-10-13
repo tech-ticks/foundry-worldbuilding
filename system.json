@@ -30,6 +30,6 @@
   "gridUnits": "ft",
   "primaryTokenAttribute": "health",
   "secondaryTokenAttribute": "power",
-  "manifest": "https://raw.githubusercontent.com/foundryvtt/worldbuilding/master/system.json",
+  "manifest": "https://raw.githubusercontent.com/tech-ticks/foundry-worldbuilding/master/system.json",
   "download": "https://github.com/foundryvtt/worldbuilding/archive/refs/tags/release-071.zip"
 }
